@@ -16,17 +16,17 @@ Tailwind CSS</b><br>
 ```bash
 git clone https://github.com/your-username/background-switcher-react.git
 ```
-### Change the directory
+### Change the directory:
 
 ```bash
 cd background-switcher-react
 ```
-### Install denepdencies
+### Install dependencies:
 
 ```bash
 npm install
 ```
-### Start the development server
+### Start the development server:
 
 ```bash
 npm start
